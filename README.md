@@ -3,7 +3,7 @@ Thanks for checking out my Github.
 My name is Steven Dunne(He/Him) and I began seriously persuing a career in coding in November 2022 when I was blessed with an opportunity for a spot on a Department of Education funded bootcamp with HyperionDev.
 
 ## Hyperion
-The Hyperion Bootcamp began is November 2022 and I finished on 14th Feb 2023 with an average grade of 98% through 52 assignements.
+The Hyperion Bootcamp began is November 2022 and I finished on 14th Feb 2023 with an average grade of 98% through 52 assignments.
 ![CompletedBootcamp](https://user-images.githubusercontent.com/118760700/218864354-3d3a6fd9-4820-46fc-8bb6-e15eb208075e.png)
 <br>I'm extremely proud of this achievement and self-driven growth and I couldn't be more excited to begin this journey with new knowledge thanks to Hyperion.
 
