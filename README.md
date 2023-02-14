@@ -2,13 +2,18 @@
 Thanks for checking out my Github. 
 My name is Steven Dunne(He/Him) and I began seriously persuing a career in coding in November 2022 when I was blessed with an opportunity for a spot on a Department of Education funded bootcamp with HyperionDev.
 
+## Hyperion
+The Hyperion Bootcamp began is November 2022 and I finished on 14th Feb 2023 with an average grade of 98% through 52 assignements.
+![CompletedBootcamp](https://user-images.githubusercontent.com/118760700/218864354-3d3a6fd9-4820-46fc-8bb6-e15eb208075e.png)
+I'm extremely proud of this achievement and self-driven growth and I couldn't be more excited to begin this journey with new knowledge thanks to Hyperion.
+
 ## Passions
-My passion for coding is driven by delivering products to clients that both I and they can be proud of presenting to the world.
+My passion for coding is driven by delivering products to clients that both I and they can be proud of presenting to the world. I am customer service focused and will work closely with clients to achieve their ultimate goals.
 Specialising in E-commerce and storefronts, with detailed attention given every step of the way to ensure your clients have the best user experience in your store
 
 ## Tech
 
-HTML, CSS, JS, React, Node, Shopify/Liquid
+HTML, CSS, JS, React, Redux, Bootstrap, Node, Shopify/Liquid
 
 
 <!--
